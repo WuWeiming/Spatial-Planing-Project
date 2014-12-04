@@ -7,9 +7,9 @@ Spatial-Planing-Project
 
 * make the routes that are not well connected in the graph well connected.
 	For Example:
-          r1|
-       	    |
-	    | ______________________r2
+          r1|</br>
+       	    |</br>
+	    | ______________________r2</br>
 	recognize r1 and r2 as connected routes, if the space between r1 and r2 are smaller than
 	some bias.  
 * calculate all the across points between each two routes.
